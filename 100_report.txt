@@ -1,0 +1,103 @@
+------> Activating Random Cache Replacement Strategy
+Retrieving and Calculating Hit/Miss Statistics for 100 Messages...
+Message ID 0 Not Found in Cache - Miss
+Message ID 1 Not Found in Cache - Miss
+Message ID 91 Retrieved - Hit
+Message ID 3 Not Found in Cache - Miss
+Message ID 4 Not Found in Cache - Miss
+Message ID 97 Retrieved - Hit
+Message ID 6 Not Found in Cache - Miss
+Message ID 7 Not Found in Cache - Miss
+Message ID 8 Not Found in Cache - Miss
+Message ID 9 Not Found in Cache - Miss
+Message ID 10 Not Found in Cache - Miss
+Message ID 11 Not Found in Cache - Miss
+Message ID 12 Not Found in Cache - Miss
+Message ID 13 Not Found in Cache - Miss
+Message ID 14 Not Found in Cache - Miss
+Message ID 15 Not Found in Cache - Miss
+Message ID 16 Not Found in Cache - Miss
+Message ID 17 Not Found in Cache - Miss
+Message ID 18 Not Found in Cache - Miss
+Message ID 19 Not Found in Cache - Miss
+Message ID 20 Not Found in Cache - Miss
+Message ID 21 Not Found in Cache - Miss
+Message ID 22 Not Found in Cache - Miss
+Message ID 23 Not Found in Cache - Miss
+Message ID 24 Not Found in Cache - Miss
+Message ID 25 Not Found in Cache - Miss
+Message ID 26 Not Found in Cache - Miss
+Message ID 27 Not Found in Cache - Miss
+Message ID 28 Not Found in Cache - Miss
+Message ID 29 Not Found in Cache - Miss
+Message ID 30 Not Found in Cache - Miss
+Message ID 31 Not Found in Cache - Miss
+Message ID 91 Retrieved - Hit
+Message ID 33 Not Found in Cache - Miss
+Message ID 19 Retrieved - Hit
+Message ID 35 Not Found in Cache - Miss
+Message ID 36 Not Found in Cache - Miss
+Message ID 37 Not Found in Cache - Miss
+Message ID 38 Not Found in Cache - Miss
+Message ID 24 Retrieved - Hit
+Message ID 19 Retrieved - Hit
+Message ID 35 Retrieved - Hit
+Message ID 42 Not Found in Cache - Miss
+Message ID 43 Not Found in Cache - Miss
+Message ID 92 Retrieved - Hit
+Message ID 45 Not Found in Cache - Miss
+Message ID 26 Retrieved - Hit
+Message ID 47 Not Found in Cache - Miss
+Message ID 48 Not Found in Cache - Miss
+Message ID 49 Not Found in Cache - Miss
+Message ID 50 Not Found in Cache - Miss
+Message ID 51 Not Found in Cache - Miss
+Message ID 52 Not Found in Cache - Miss
+Message ID 53 Not Found in Cache - Miss
+Message ID 54 Not Found in Cache - Miss
+Message ID 55 Not Found in Cache - Miss
+Message ID 56 Not Found in Cache - Miss
+Message ID 57 Not Found in Cache - Miss
+Message ID 58 Not Found in Cache - Miss
+Message ID 59 Not Found in Cache - Miss
+Message ID 60 Not Found in Cache - Miss
+Message ID 61 Not Found in Cache - Miss
+Message ID 62 Not Found in Cache - Miss
+Message ID 63 Not Found in Cache - Miss
+Message ID 64 Not Found in Cache - Miss
+Message ID 65 Retrieved - Hit
+Message ID 66 Not Found in Cache - Miss
+Message ID 67 Not Found in Cache - Miss
+Message ID 68 Not Found in Cache - Miss
+Message ID 69 Not Found in Cache - Miss
+Message ID 70 Not Found in Cache - Miss
+Message ID 71 Not Found in Cache - Miss
+Message ID 72 Not Found in Cache - Miss
+Message ID 73 Not Found in Cache - Miss
+Message ID 74 Not Found in Cache - Miss
+Message ID 75 Not Found in Cache - Miss
+Message ID 30 Retrieved - Hit
+Message ID 6 Retrieved - Hit
+Message ID 78 Not Found in Cache - Miss
+Message ID 79 Not Found in Cache - Miss
+Message ID 49 Retrieved - Hit
+Message ID 81 Not Found in Cache - Miss
+Message ID 82 Not Found in Cache - Miss
+Message ID 83 Not Found in Cache - Miss
+Message ID 84 Not Found in Cache - Miss
+Message ID 85 Not Found in Cache - Miss
+Message ID 77 Retrieved - Hit
+Message ID 87 Not Found in Cache - Miss
+Message ID 88 Not Found in Cache - Miss
+Message ID 89 Not Found in Cache - Miss
+Message ID 90 Not Found in Cache - Miss
+Message ID 91 Not Found in Cache - Miss
+Message ID 10 Retrieved - Hit
+Message ID 93 Not Found in Cache - Miss
+Message ID 94 Not Found in Cache - Miss
+Message ID 95 Not Found in Cache - Miss
+Message ID 96 Not Found in Cache - Miss
+Message ID 97 Not Found in Cache - Miss
+Message ID 98 Not Found in Cache - Miss
+Message ID 99 Not Found in Cache - Miss
+100 Accesses - Hits: 15, Misses: 85, Hit Rate: 15.00%
